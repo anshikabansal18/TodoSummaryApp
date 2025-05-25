@@ -30,6 +30,7 @@ A fullstack web app to manage daily todos and generate AI-powered summaries usin
 ```bash
 git clone https://github.com/<your-username>/todo-summary-assistant.git
 cd todo-summary-assistant
+```
 
 ## 2. 🛠️ Backend Setup
 
