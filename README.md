@@ -103,9 +103,9 @@ Copy the webhook URL and paste it in your .env as SLACK_WEBHOOK_URL
 
 ✅ Example Slack message:
 
-*📝 AI-Generated Todo Summary
+*📝 AI-Generated Todo Summary*
 
-Here is your summary:
+*Here is your summary:
 You have several to-do tasks lined up for the day. They include academic tasks like doing homework, family responsibilities such as calling your mom, self-improvement activities like going to the gym and eating healthy, as well as some fun listening to music and walking the dog. You also plan to volunteer at an NGO which shows your proactive attitude and commitment to the society and its welfare.*
 
 ## 🧠 Design Decisions & Architecture
