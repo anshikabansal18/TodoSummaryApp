@@ -102,13 +102,12 @@ Configure it and select the channel to post summaries in
 Copy the webhook URL and paste it in your .env as SLACK_WEBHOOK_URL
 
 ✅ Example Slack message:
-pgsql
-Copy
-Edit
-📝 AI-Generated Todo Summary
+*📝 AI-Generated Todo Summary*
 
 • Finish coding assignment  
+
 • Submit project to GitHub  
+
 • Attend AI webinar
 
 ## 🧠 Design Decisions & Architecture
